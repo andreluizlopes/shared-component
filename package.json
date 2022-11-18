@@ -36,6 +36,6 @@
     "babel-runtime": "^6.26.0"
   },
   "dependencies": {
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   }
 }
